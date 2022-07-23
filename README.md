@@ -2,6 +2,8 @@
 
 Otiginal - https://chromedino.com/
 
+Versão para PC. Simples, responsivo (abri no celular daqui) e cuidado: é viciante. Desculpe o aviso, pois parece que todos já conhecem. Eu não conhecia pelo fato de não usar o Chrome.
+
 the trex runner game extracted from chrome offline err page.
 
 see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
