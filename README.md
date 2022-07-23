@@ -2,6 +2,8 @@
 
 Otiginal - https://chromedino.com/
 
+![](trex.png)
+
 Versão para PC. Simples, responsivo (abri no celular daqui) e cuidado: é viciante. Desculpe o aviso, pois parece que todos já conhecem. Eu não conhecia pelo fato de não usar o Chrome.
 
 the trex runner game extracted from chrome offline err page.
