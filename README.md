@@ -1,4 +1,6 @@
-## t-rex-runner
+# t-rex-runner
+
+Otiginal - https://chromedino.com/
 
 the trex runner game extracted from chrome offline err page.
 
